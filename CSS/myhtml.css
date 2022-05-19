@@ -1,0 +1,41 @@
+
+body
+{
+font-size:90px;
+background-color:pink;
+/*background-image:url('https://w0.peakpx.com/wallpaper/40/935/HD-wallpaper-nature-beautiful.jpg');*/
+/*background-repeat:no-repeat;*/
+background-position:right top;
+background-attachment:fixed;
+color:blue;
+}
+#para
+{
+background-color:white;
+border-style:dotted dashed solid double;
+border-width:20px;
+border-color:black;
+text-align:center;
+font-size:100px;
+color:black;
+margin-top:100px;
+margin-bottom:100p;
+margin-right:150px;
+margin-left:80px;
+}
+.class{
+border-radius:30px;
+border-style:dashed;
+border-width:20px;
+font-size:50px;
+background-color:navy;
+text-align=center;
+color:white;
+}
+.name{
+width:1000px;
+background-color:lightblue;
+border:10px solid blue;
+padding:120px;
+margin:40;
+}
